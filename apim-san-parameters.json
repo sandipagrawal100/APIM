@@ -6,10 +6,10 @@
       "value": "apim-san2"
     },
     "LinkedTemplatesBaseUrl": {
-      "value": "https://storageapimsan.blob.core.windows.net/apim-templates"
+      "value": "https://github.com/sandipagrawal100/APIM/blob/main"
     },
     "PolicyXMLBaseUrl": {
-      "value": "https://storageapimsan.blob.core.windows.net/apim-templates"
+      "value": "https://github.com/sandipagrawal100/APIM/blob/main"
     }
   },
   "resources": []
