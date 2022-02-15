@@ -6,10 +6,10 @@
       "value": "apim-san2"
     },
     "LinkedTemplatesBaseUrl": {
-      "value": "https://github.com/sandipagrawal100/APIM/blob/main"
+      "value": "https://github.com/sandipagrawal100/APIM/blob/master"
     },
     "PolicyXMLBaseUrl": {
-      "value": "https://github.com/sandipagrawal100/APIM/blob/main"
+      "value": "https://github.com/sandipagrawal100/APIM/blob/master"
     }
   },
   "resources": []
